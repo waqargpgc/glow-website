@@ -78,12 +78,17 @@
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
+.care-section{
+    background-color:rgb(252, 231, 235);padding: 155px;
+}
 
 .companies img {
     width: 150px;
     height: 40px;
 }
-
+.companies-align {
+    position: relative;top: 60px; width: 59%; margin: 0 auto;
+}
 /*** Answer and Questions ***/
 .faq .faq-list ul {
     padding: 0;
@@ -109,6 +114,9 @@
 .testimonial-item {
     background: #FFFFFF;
     box-shadow: 0 0 45px rgb(0 0 0 / 8%);
+}
+.testimonial-img {
+    position: relative;right: 100px;top: 20px;
 }
 
 /*** Footer ***/
