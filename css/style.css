@@ -78,8 +78,12 @@
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
+.rounded-top-border1 {
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+}
 .care-section{
-    background-color:rgb(252, 231, 235);padding: 140px;
+    background-color:rgb(252, 231, 235);padding: 130px;
 }
 
 .companies img {
@@ -116,9 +120,14 @@
     box-shadow: 0 0 45px rgb(0 0 0 / 8%);
 }
 .testimonial-img {
-    position: relative;right: 100px;top: 20px;
+    position: relative;right: 110px;top: 20px;
 }
-
+.testimonial-circle{
+    width: 11px;
+    height: 11px;
+    margin-left: 4px;
+    display: inline-block;
+}
 /*** Footer ***/
 .footer .btn.btn-social {
     margin-right: 5px;
