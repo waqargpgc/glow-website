@@ -51,7 +51,7 @@
 /*** Main Header with H1 Heading ***/
 
 .main-header h1 {
-    font-size: 3.5em;
+    font-size: 3.2em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -79,7 +79,7 @@
     border-top-right-radius: 50%;
 }
 .care-section{
-    background-color:rgb(252, 231, 235);padding: 155px;
+    background-color:rgb(252, 231, 235);padding: 140px;
 }
 
 .companies img {
